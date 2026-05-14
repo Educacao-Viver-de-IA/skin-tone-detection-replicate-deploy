@@ -1,6 +1,6 @@
 build:
   gpu: true
-  cuda: "12.3"
+  cuda: "12.4"
   python_version: "3.11"
   python_packages:
     - "tensorflow==2.16.2"
